@@ -1,0 +1,4 @@
+1. Baixei o projeto do repositorio
+2. Instalei os extensions vscode-icons e live server
+3. opcao AUTO SAVE
+4. 
